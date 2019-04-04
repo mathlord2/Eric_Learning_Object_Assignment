@@ -1,0 +1,58 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: aliceblue;
+  font-size: 20px;
+}
+
+.header {
+  background-image: url("Physics.jpg");
+  text-align: center;
+  font-size: 100px;
+  padding: 50px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+
+#title {
+  background-color: blueviolet;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+#subtitle {
+  background-color: darkcyan;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+p {
+  padding: 15px 30px;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 10px;
+  max-width: 400px;
+  max-height: 300px;
+}
+
+.footer {
+  background-color:darkblue;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  padding: 10px;
+}
